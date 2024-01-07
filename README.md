@@ -18,8 +18,11 @@ npm init -f
 npm i --save-dev chai chai-as-promised
 ```
 
-3 Check that Truffle was installed by typing
+3) Check that Truffle was installed by typing
 
 ```
 truffle
 ```
+
+4) Create React Typescript web-app 
+npx create-react-app  multisig-wallet-web --typescript
